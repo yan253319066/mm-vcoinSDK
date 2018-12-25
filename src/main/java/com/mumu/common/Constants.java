@@ -6,7 +6,7 @@ import java.util.List;
 
 
 public class Constants {
-	
+	//?
 	public static enum EXCHANGE_NAME {
 		EXCHANGE_HOUBI("huobi"),
 		EXCHANGE_COINEX("coinex"),
